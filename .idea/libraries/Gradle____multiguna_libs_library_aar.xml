@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: ./multiguna/libs/library.aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fde5d00225fb558b80a745c51c4591ea/library/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fde5d00225fb558b80a745c51c4591ea/library/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
